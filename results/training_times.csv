@@ -1,0 +1,6 @@
+Model,Training Time (seconds)
+Logistic Regression,4.627729654312134
+Decision Tree,0.897794246673584
+KNN,0.1944122314453125
+Naive Bayes,0.268996000289917
+Support Vector Machine,266.6131601333618

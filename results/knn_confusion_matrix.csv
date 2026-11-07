@@ -1,0 +1,3 @@
+,Predicted <=50K,Predicted >50K
+Actual <=50K,11274,1161
+Actual >50K,1553,2293
