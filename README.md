@@ -112,7 +112,7 @@ Repository: https://github.com/gkumar052/ML-Assignment-2-Adult-Income.git
 
 ## 9. Live Streamlit Application
 
-Live application: [Add deployed Streamlit Community Cloud URL here]
+Live application: https://adult-income-ml-classifier.streamlit.app/
 
 The Streamlit application allows users to:
 
